@@ -249,7 +249,7 @@ main, exiting
 ---
 
 # Output
-
+![Output Image](QNX_3.png)
 ---
 
 # Result
