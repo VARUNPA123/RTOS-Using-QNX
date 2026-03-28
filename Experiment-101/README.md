@@ -55,7 +55,8 @@ int main(void) {
 }
 ```
 ## Output
-![Output Image](exp1.png)
+<img width="1442" height="248" alt="QNX_1" src="https://github.com/user-attachments/assets/fd9c59c0-1fcf-4b3f-9cb3-4c430184af14" />
+
 ---
 
 ## Result
